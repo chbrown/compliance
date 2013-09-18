@@ -1,4 +1,4 @@
-From [https://utdirect.utexas.edu/cts/index.WBX]
+From [https://utdirect.utexas.edu/cts/index.WBX](https://utdirect.utexas.edu/cts/index.WBX)
 
 * [CW 101](cw101.md)
 * [CW 121](cw121.md)

@@ -1,4 +1,4 @@
-From [http://deanofstudents.utexas.edu/sa/pses/onlinetrain.php]
+From [http://deanofstudents.utexas.edu/sa/pses/onlinetrain.php](http://deanofstudents.utexas.edu/sa/pses/onlinetrain.php)
 
 * [Hazing Prevention](1_hazing.md)
 * [Alcohol Use and Abuse](2_alcohol.md)
