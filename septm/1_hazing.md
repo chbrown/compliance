@@ -218,36 +218,31 @@ Engage in effective planning for recruitment selection, new member education, an
 Hazing Prevention
 
 1. Hazing can include:
-
-    Endangerment of mental health
-    Endangerment of safety
-    Endangerment of physical health
-    ✓ All of the above
+  - [ ] Endangerment of mental health
+  - [ ] Endangerment of safety
+  - [ ] Endangerment of physical health
+  - [x] All of the above
 
 2. As a result of a hazing incident, who may face consequences?
-
-    Individuals accused of hazing another member
-    Individuals who were hazed and have not come forward
-    The organization in which those accused of hazing are members
-    ✓ All of the above
+  - [ ] Individuals accused of hazing another member
+  - [ ] Individuals who were hazed and have not come forward
+  - [ ] The organization in which those accused of hazing are members
+  - [x] All of the above
 
 3. The University of Texas at Austin will only initiate disciplinary action in response to hazing incidents if it:
-
-    Takes place during official functions of the University.
-    Involves a registered student organization registered with Student Activities.
-    Is substantially connected to the interests of the University regardless of the location in which they occur, on or off campus.
-    Involves any student organization, whether or not it is registered with Student Activities, whose members are primarily UT - Austin students.
-    ✓ 1, 3, and 4
+  - [ ] Takes place during official functions of the University.
+  - [ ] Involves a registered student organization registered with Student Activities.
+  - [ ] Is substantially connected to the interests of the University regardless of the location in which they occur, on or off campus.
+  - [ ] Involves any student organization, whether or not it is registered with Student Activities, whose members are primarily UT - Austin students.
+  - [x] 1, 3, and 4
 
 4. Under Texas state law, having given consent to be hazed is a defense to prosecution.
-
-    True
-    ✓ False
+  - [ ] True
+  - [x] False
 
 5. Which of the following strategies should a student organization adopt to address hazing?
-
-    Condone activities as long as no one gets hurt
-    Explore alternatives for your organization to create unity
-    Remove members who do not support the culture of the organization
-    Promote academic excellence among the membership
-    ✓ 2 and 4
+  - [ ] Condone activities as long as no one gets hurt
+  - [ ] Explore alternatives for your organization to create unity
+  - [ ] Remove members who do not support the culture of the organization
+  - [ ] Promote academic excellence among the membership
+  - [x] 2 and 4

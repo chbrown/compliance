@@ -298,34 +298,29 @@ Page 21 of 22
 Fire and Life Safety
 
 1. The total number of persons allowed within any type of facility is governed by fire code for the safety of everyone.
-
-- [x] True
-- [ ] False
+  - [x] True
+  - [ ] False
 
 2. For what situation would you call the Behavior Concerns Advice Line (BCAL).
-
-- [ ] My friend is acting odd
-- [ ] My TA starting writing bizarre words and pictures on the board and talking to him/herself
-- [ ] My roommate texted me and said s/he wanted to commit suicide
-- [x] All of the above
+  - [ ] My friend is acting odd
+  - [ ] My TA starting writing bizarre words and pictures on the board and talking to him/herself
+  - [ ] My roommate texted me and said s/he wanted to commit suicide
+  - [x] All of the above
 
 3. An example of an emergency is:
-
-- [ ] A fight
-- [ ] An alarm going off
-- [ ] Someone verbally threatening someone else
-- [x] All of the above could be an emergency
+  - [ ] A fight
+  - [ ] An alarm going off
+  - [ ] Someone verbally threatening someone else
+  - [x] All of the above could be an emergency
 
 4. In an emergency or crisis you should:
-
-- [ ] Trust your gut
-- [ ] Not be afraid to call for help
-- [ ] Remain calm
-- [x] All of the above
+  - [ ] Trust your gut
+  - [ ] Not be afraid to call for help
+  - [ ] Remain calm
+  - [x] All of the above
 
 5. If you are not feeling well physically, who would be the best person to call for advice?
-
-- [ ] A professor
-- [ ] Your friend
-- [x] 24-hour Nurse Advice Line
-- [ ] Your Academic Advisor
+  - [ ] A professor
+  - [ ] Your friend
+  - [x] 24-hour Nurse Advice Line
+  - [ ] Your Academic Advisor

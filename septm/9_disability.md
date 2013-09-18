@@ -179,32 +179,27 @@ http://ddce.utexas.edu/disability/
 Disability Advocacy
 
 1. You can tell who has a disability simply by his/her appearance
-
-- [ ] True
-- [x] False
+  - [ ] True
+  - [x] False
 
 2. Disability should be seen as: choose all that apply
-
-- [x] A diverse, minority group
-- [ ] Tragic
-- [ ] Causing Suffering
-- [ ] Inability
+  - [x] A diverse, minority group
+  - [ ] Tragic
+  - [ ] Causing Suffering
+  - [ ] Inability
 
 3. If someone with a disability attends your event and has difficult participating in an activity you should: choose all that apply
-
-- [ ] Do it for them
-- [ ] Tell him/her they can't participate.
-- [x] Ask how they can best accomplish the activity
-- [ ] Ask if they will be able to participate with everyone else
+  - [ ] Do it for them
+  - [ ] Tell him/her they can't participate.
+  - [x] Ask how they can best accomplish the activity
+  - [ ] Ask if they will be able to participate with everyone else
 
 4. Universities are required to make all their programs and services accessible to people with disabilities.
-
-- [x] True
-- [ ] False
+  - [x] True
+  - [ ] False
 
 5. Accessibility should focus on removing:
-
-- [ ] Physical barriers
-- [ ] Instructional barriers
-- [ ] Attitudinal barriers
-- [x] All of the above
+  - [ ] Physical barriers
+  - [ ] Instructional barriers
+  - [ ] Attitudinal barriers
+  - [x] All of the above

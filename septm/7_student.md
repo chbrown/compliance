@@ -323,37 +323,32 @@ If you are involved in an accident or someone becomes ill or injured:
 Student Organization Travel
 
 1. Which of the following things should be covered at an orientation meeting for members of an organization planning to take a trip?
-
-- [ ] Review emergency procedures
-- [ ] Discuss appropriate conduct
-- [ ] Fill out required forms
-- [x] All of the above
+  - [ ] Review emergency procedures
+  - [ ] Discuss appropriate conduct
+  - [ ] Fill out required forms
+  - [x] All of the above
 
 2. The UT travel policies can vary for student organizations depending on the `_______________`.
-
-- [ ] Purpose of the trip
-- [x] Type of organization
-- [ ] Size of the organization
-- [ ] Weather
+  - [ ] Purpose of the trip
+  - [x] Type of organization
+  - [ ] Size of the organization
+  - [ ] Weather
 
 3. The UT domestic travel policies only apply to student organization's traveling more than `___` miles from the Main Campus.
-
-- [ ] 15
-- [x] 25
-- [ ] 35
-- [ ] 50
+  - [ ] 15
+  - [x] 25
+  - [ ] 35
+  - [ ] 50
 
 4. Which of the following items are required from all members of student organizations traveling under the UT travel policies?
-
-- [x] Proof of health insurance
-- [ ] Transcripts
-- [ ] Driver's license
-- [ ] Annual dues
+  - [x] Proof of health insurance
+  - [ ] Transcripts
+  - [ ] Driver's license
+  - [ ] Annual dues
 
 5. Which of the following statements regarding the UT International Travel Policy is the most accurate?
-
-- [ ] Only sponsored student organizations must comply with the policy
-- [ ] Registered student organizations only have to comply with the policy if members are required to travel internationally.
-- [x] All sponsored and registered student organizations must comply with the policy for any international travel.
-- [ ] The policy applies to a student traveling to an international destination to visit family during the Thanksgiving holiday.
+  - [ ] Only sponsored student organizations must comply with the policy
+  - [ ] Registered student organizations only have to comply with the policy if members are required to travel internationally.
+  - [x] All sponsored and registered student organizations must comply with the policy for any international travel.
+  - [ ] The policy applies to a student traveling to an international destination to visit family during the Thanksgiving holiday.
 

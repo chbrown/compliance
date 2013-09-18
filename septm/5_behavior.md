@@ -286,36 +286,30 @@ When planning an event make sure to:
 Behavior at Parties and Other Events
 
 1. Which of the following is not a safety concern associated with a "slave" or "date" auction?
-
-- [ ] Devaluing of a human being into merchandise to be bought
-- [ ] Inability to discern the bidder's true motives
-- [x] What time of the year the auction is held
-- [ ] Public perception about your organization
+  - [ ] Devaluing of a human being into merchandise to be bought
+  - [ ] Inability to discern the bidder's true motives
+  - [x] What time of the year the auction is held
+  - [ ] Public perception about your organization
 
 2. What factors should you consider when planning an organization event?
-
-- [ ] Will event participation be by invitation only?
-- [ ] When and where will the event take place?
-- [ ] What is the budget for the event?
-- [ ] How will the event reflect the values of your organization?
-- [x] All of the above
+  - [ ] Will event participation be by invitation only?
+  - [ ] When and where will the event take place?
+  - [ ] What is the budget for the event?
+  - [ ] How will the event reflect the values of your organization?
+  - [x] All of the above
 
 3. When planning a party, it is a best practice to only invite those people you know.
-
-- [x] True
-- [ ] False
+  - [x] True
+  - [ ] False
 
 4. To enhance the safety of invitees and guests, it is best to exercise the following practices if your organization plans to serve alcohol at an event?
-
-- [ ] Buy wholesale alcohol
-- [ ] Use a third party vendor
-- [ ] Provide alternative ways of transportation to and from your event
-- [x] 2 and 3
+  - [ ] Buy wholesale alcohol
+  - [ ] Use a third party vendor
+  - [ ] Provide alternative ways of transportation to and from your event
+  - [x] 2 and 3
 
 5. Why is it important that you and your organization's membership act professionally and follow university rules when attending state, regional, or national events or competitions?
-
-- [ ] A member's behavior reflects both on them individually AND the entire organization
-- [ ] The organization and/or its members may face university discipline for failing to adhere to acceptable standards of student conduct
-- [ ] Many times donors, company representatives, competitors from other schools, etc. will not differentiate between your organization and UT
-- [x] All of the above
-
+  - [ ] A member's behavior reflects both on them individually AND the entire organization
+  - [ ] The organization and/or its members may face university discipline for failing to adhere to acceptable standards of student conduct
+  - [ ] Many times donors, company representatives, competitors from other schools, etc. will not differentiate between your organization and UT
+  - [x] All of the above

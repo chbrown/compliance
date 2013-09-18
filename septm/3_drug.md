@@ -284,38 +284,33 @@ The university will assess a sanction of suspension for a specified period of ti
 Drug Possession/Abuse
 
 1. Which of the following types of drugs are most frequently abused on college campuses?
-
-- [x] Prescription Drugs
-- [ ] Vitamins
-- [ ] Illicit drugs
-- [ ] None of the Above
+  - [x] Prescription Drugs
+  - [ ] Vitamins
+  - [ ] Illicit drugs
+  - [ ] None of the Above
 
 2. What should an officer (or authorized representative) do if he or she suspects a member of their student organization has a drug problem?
-
-- [ ] Talk with a University Health Services (UHS) health educator or doctor
-- [ ] Call the Behavior Concerns Advice Line (BCAL)
-- [ ] Conduct an intervention
-- [x] All of the above
+  - [ ] Talk with a University Health Services (UHS) health educator or doctor
+  - [ ] Call the Behavior Concerns Advice Line (BCAL)
+  - [ ] Conduct an intervention
+  - [x] All of the above
 
 3. Which of the following are reasons why college students are more likely to abuse prescription and over-the-counter drugs?
-
-- [x] Produce a better "high"
-- [ ] Easy to obtain
-- [ ] Cost more money to buy
-- [ ] None of the above
+  - [x] Produce a better "high"
+  - [ ] Easy to obtain
+  - [ ] Cost more money to buy
+  - [ ] None of the above
 
 4. Which of the following are signs that a member of a student organization has (or may have) a drug problem?
-
-- [ ] Neglecting commitments, reponsibilities, and / or relationships
-- [ ] Setting and exceeding limits of drug use
-- [ ] Lying about amount or trying to hide the amount / frequency of drug use
-- [x] All of the above
+  - [ ] Neglecting commitments, reponsibilities, and / or relationships
+  - [ ] Setting and exceeding limits of drug use
+  - [ ] Lying about amount or trying to hide the amount / frequency of drug use
+  - [x] All of the above
 
 5. Which of the following risk management strategies should a student organization adopt to help prevent illegal drug possession, use, or abuse?
-
-- [x] Host an event / invite a guest speaker to talk about ways to keep the group drug free
-- [ ] Remove a member who is found to be using illicit drugs
-- [ ] Avoid talking about the issue with the membership
-- [ ] Condone the activity as long as no one gets hurt
+  - [x] Host an event / invite a guest speaker to talk about ways to keep the group drug free
+  - [ ] Remove a member who is found to be using illicit drugs
+  - [ ] Avoid talking about the issue with the membership
+  - [ ] Condone the activity as long as no one gets hurt
 
 (80% of those are right)

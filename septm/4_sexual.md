@@ -230,64 +230,55 @@ The Title IX Coordinator for the UT Austin campus is located in the Office of th
 Sexual Harassment
 
 1. The University of Texas at Austin is committed to maintaining an atmosphere which is free of intimidation, fear and coercion.
-
-- [x] True
-- [ ] False
+  - [x] True
+  - [ ] False
 
 2. Sexual Harassment is the result of
-
-- [x] Unwelcome sexual advances
-- [ ] Requests for sexual favors
-- [ ] Groping/intentional touching
-- [ ] All of the above
+  - [x] Unwelcome sexual advances
+  - [ ] Requests for sexual favors
+  - [ ] Groping/intentional touching
+  - [ ] All of the above
 
 3. Which of the following is considered an act of sexual harassment or sexual misconduct?
-
-- [ ] Shaking hand
-- [ ] Giving a performance related compliment
-- [x] Telling a story/joke of a sexual nature
-- [ ] All of the above
+  - [ ] Shaking hand
+  - [ ] Giving a performance related compliment
+  - [x] Telling a story/joke of a sexual nature
+  - [ ] All of the above
 
 4. With a student body population close to 50,000 students, approximately how many students at UT-Austin are likely to encounter an incident of sexual harassment/misconduct while in college?
-
-- [x] 30,000 students
-- [ ] 1,500 students
-- [ ] 800 students
-- [ ] 300 students
+  - [x] 30,000 students
+  - [ ] 1,500 students
+  - [ ] 800 students
+  - [ ] 300 students
 
 5. Both men and women can be initiators and victims of sexual harassment/sexual misconduct.
-
-- [x] True
-- [ ] False
+  - [x] True
+  - [ ] False
 
 Sexual Assault
-1. The University can take disciplinary action against a student determined to have committed a sexual assault only if that student is found guilty in a court of law.
 
-- [ ] True
-- [x] False
+1. The University can take disciplinary action against a student determined to have committed a sexual assault only if that student is found guilty in a court of law.
+  - [ ] True
+  - [x] False
 
 2. Consent includes all of the following EXCEPT:
-
-- [ ] Both participants being fully conscious
-- [x] One participant using fear, coercion or manipulation to guilt or force another into a sexual act
-- [ ] Both participants having clearly communicated their willingness/permission
-- [ ] Both participants being positive and sincere in their desires.
+  - [ ] Both participants being fully conscious
+  - [x] One participant using fear, coercion or manipulation to guilt or force another into a sexual act
+  - [ ] Both participants having clearly communicated their willingness/permission
+  - [ ] Both participants being positive and sincere in their desires.
 
 3. If you report a case of sex discrimination, sexual assault, misconduct or harassment to the Office of the Dean of Students they will force you to file charges:
-
-- [ ] True
-- [x] False
+  - [ ] True
+  - [x] False
 
 4. All of the following can decrease your organization's risk for a sexual assault occurring at or as a result of an org-sponsored event EXCEPT:
-
-- [ ] Designating someone to monitor and control the distribution of alcohol
-- [?] Ignoring coercive and/or questionable behavior
-- [ ] Holding members accountable for sexually predatory behaviors
-- [ ] Having resources available for the ongoing education of your members
+  - [ ] Designating someone to monitor and control the distribution of alcohol
+  - [?] Ignoring coercive and/or questionable behavior
+  - [ ] Holding members accountable for sexually predatory behaviors
+  - [ ] Having resources available for the ongoing education of your members
 
 5. All of the following may be helpful on-campus resources for survivors of sexual assault EXCEPT:
-
-- [ ] Voices Against Violence
-- [ ] UTPD
-- [x] SafePlace
-- [ ] University Health Service
+  - [ ] Voices Against Violence
+  - [ ] UTPD
+  - [x] SafePlace
+  - [ ] University Health Service

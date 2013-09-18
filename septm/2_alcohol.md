@@ -235,37 +235,31 @@ Page 18 of 18
 Alcohol Possession/Abuse
 
 1. What is the FIRST thing you should do if you suspect someone is experiencing an alcohol overdose?
-
-    Put them in the Bacchus Maneuver
-    Call AMECH
-    ✓ Call 911
-    Make them drink some water
+  - [ ] Put them in the Bacchus Maneuver
+  - [ ] Call AMECH
+  - [x] Call 911
+  - [ ] Make them drink some water
 
 2. All of the following are red flags EXCEPT :
-
-    Drinking in the morning to treat a hangover
-    Forgetting or denying events that happened when drunk
-    ✓ Having a low tolerance
-    Setting limits but not sticking to them
+  - [ ] Drinking in the morning to treat a hangover
+  - [ ] Forgetting or denying events that happened when drunk
+  - [x] Having a low tolerance
+  - [ ] Setting limits but not sticking to them
 
 3. AMECH stands for:
-
-    Alcohol Medical Emergency Campus Help
-    American Medical Emergency Campus Help
-    American Medical Emergency Call for Help
-    ✓ Alcohol Medical Emergency Call for Help
+  - [ ] Alcohol Medical Emergency Campus Help
+  - [ ] American Medical Emergency Campus Help
+  - [ ] American Medical Emergency Call for Help
+  - [x] Alcohol Medical Emergency Call for Help
 
 4. Which of the following are good ways for your organization to reduce risk and liability regarding alcohol:
-
-    Watch out for problem drinkers and intervene early
-    Hire a third party vendor
-    Prevent service of alcohol to minors
-    ✓ All of the above
+  - [ ] Watch out for problem drinkers and intervene early
+  - [ ] Hire a third party vendor
+  - [ ] Prevent service of alcohol to minors
+  - [x] All of the above
 
 5. The proper order of the steps for performing the BACCHUS Maneuver are:
-
-    Gently roll the person towards you, raise the arm that is closest to you above the person's head, and tilt the head up to open the airway
-    ✓ Raise the arm that is closest to you above the person's head, gently roll the person towards you, and tilt the head up to open the airway
-    Tilt the head up to open the airway, raise the arm that is closest to you above the person's head, and gently roll the person towards you
-    None of the above
-
+  - [ ] Gently roll the person towards you, raise the arm that is closest to you above the person's head, and tilt the head up to open the airway
+  - [x] Raise the arm that is closest to you above the person's head, gently roll the person towards you, and tilt the head up to open the airway
+  - [ ] Tilt the head up to open the airway, raise the arm that is closest to you above the person's head, and gently roll the person towards you
+  - [ ] None of the above

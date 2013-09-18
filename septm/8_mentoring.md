@@ -142,33 +142,28 @@ Tell the camp/program director – Once the incident is reported to law enforcem
 Minors
 
 1. When must you report abuse or neglect of a minor?
-
-- [ ] When a minor expressly communicates that they have been a victim of abuse or neglect
-- [ ] When you witness a minor being abused or neglected
-- [ ] When you have any cause to believe that a minor has been abused or neglected
-- [x] All of the above
+  - [ ] When a minor expressly communicates that they have been a victim of abuse or neglect
+  - [ ] When you witness a minor being abused or neglected
+  - [ ] When you have any cause to believe that a minor has been abused or neglected
+  - [x] All of the above
 
 2. Indicate which behavior is not permitted when working with minors:
-
-- [ ] Frontal hugs
-- [ ] Rough housing
-- [ ] Speaking to a minor one-on-one, without the presence of others
-- [ ] Contact with a minor outside of the sanctioned activity
-- [x] A, B, and D
+  - [ ] Frontal hugs
+  - [ ] Rough housing
+  - [ ] Speaking to a minor one-on-one, without the presence of others
+  - [ ] Contact with a minor outside of the sanctioned activity
+  - [x] A, B, and D
 
 3. How can you help to ensure a safe environment has been created for minors?
-
-- [ ] Respecting their privacy
-- [ ] Monitoring those who have access to minors
-- [ ] Conducting activities in an open space
-- [x] All of the above
+  - [ ] Respecting their privacy
+  - [ ] Monitoring those who have access to minors
+  - [ ] Conducting activities in an open space
+  - [x] All of the above
 
 4. When working with minors, you should only be concerned with your personal interactions and avoid what other counselors are doing.
-
-- [ ] True
-- [x] False
+  - [ ] True
+  - [x] False
 
 5. Once you have reported the mistreatment of a minor to law enforcement, there is no need to report this to anyone else.
-
-- [ ] True
-- [x] False
+  - [ ] True
+  - [x] False
